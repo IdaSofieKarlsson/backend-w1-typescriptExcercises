@@ -17,7 +17,7 @@ const move = (dir: Direction) => {
 move('right');
 */
 
-/*
+
 //interfaces and type aliases
 interface Person {
     firstName: string; 
@@ -34,8 +34,10 @@ const clientData = (client: Client) => {
     console.log(`Name: ${client.firstName} Email: ${client.email}`);
 }; 
 clientData({firstName: 'Ida', age: 48, customerNumber: 11, email: 'afg'});
-*/
 
+
+
+/*
 //enums
 //a way to define a list of named options
 // tre typer av fel: unautheriased, missing credentials and internal error 
@@ -51,3 +53,5 @@ const printErrorMessager = (error: LoginError) => {
    
     console.log(error);
 }
+
+*/
