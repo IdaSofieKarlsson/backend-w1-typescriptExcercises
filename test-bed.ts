@@ -1,6 +1,6 @@
 //enbart mina anteckningar
 
-/*
+
 //union type 
 // betyder att en variabel vara av flera olika typer
 type PasswordFieldType = number | string;
@@ -15,7 +15,7 @@ const move = (dir: Direction) => {
     console.log(`Moving: ${dir}`);
 };
 move('right');
-*/
+
 
 //interfaces and type aliases
 interface Person {
